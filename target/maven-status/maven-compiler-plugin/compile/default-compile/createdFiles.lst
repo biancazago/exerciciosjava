@@ -1,0 +1,5 @@
+com/exercicio/exerciciosjava/service/ExercicioService.class
+com/exercicio/exerciciosjava/web/rest/ExercicioResource.class
+com/exercicio/exerciciosjava/service/dto/PalavraDTO.class
+com/exercicio/exerciciosjava/ExerciciosjavaApplication.class
+com/exercicio/exerciciosjava/service/dto/ColecaoPalavrasDTO.class

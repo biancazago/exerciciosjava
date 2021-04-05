@@ -1,0 +1,5 @@
+com/exercicio/exerciciosjava/ExerciciosjavaApplicationTests.class
+com/exercicio/exerciciosjava/web/rest/ExercicioResourceTest.class
+com/exercicio/exerciciosjava/unit/ColecaoPalavrasDTOTest.class
+com/exercicio/exerciciosjava/util/IntTestComum.class
+com/exercicio/exerciciosjava/unit/PalavraDTOTest.class
