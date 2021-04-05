@@ -16,7 +16,7 @@ Antes de executar o backend, execute o seguinte comando:
 
 O exercício um foi desenvolvido a partir da logica de transformar cada palavra em um array de char e ordernar esse array, e fazendo uma verificação se os arrays são iguais.
 
-#####Exemplo para chamar endpoint
+##### Exemplo para chamar endpoint
 http://localhost:8080/api/exercicios/exercicio-um?palavra1=amor&palavra2=ramo
 
 ou
@@ -36,7 +36,7 @@ uma lista de palavras que são anagramas, e para palavras que não são anagrama
 
 E as duas lista são adicionadas em um novo objeto(ColecaoPalavrasDTO) para retorno.
 
-#####Exemplo para chamar endpoint
+##### Exemplo para chamar endpoint
 http://localhost:8080/api/exercicios/exercicio-dois?listaPalavra=amor,roma,ramo,remo
 
 ou
@@ -47,7 +47,7 @@ http://localhost:8080/api/exercicios/exercicio-dois
 
 O exercício três foi desenvolvido a partir da logica de utilizar uma regex para substituir tudo que está entre [] no texto por palavra.
 
-#####Exemplo para chamar endpoint
+##### Exemplo para chamar endpoint
 
 http://localhost:8080/api/exercicios/exercicio-tres?palavra=Exerc%C3%ADcio%203&texto=%5Bvalue%5D%20est%C3%A1%20resolvido
 
@@ -56,7 +56,7 @@ ou
 http://localhost:8080/api/exercicios/exercicio-tres 
 
 
-###Testes
+### Testes
 Foram realizando testes de integração contendo 3 testes, um para cada função do resource, cada teste contém duas chamadas para o endpoint uma com os parâmetros preenchidos e o outro não. 
 Também foi realizado testes unitários para testar getter e setter. 
 
